@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marko Gugleta
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Operating Systems @ TU Graz
 - 💞️ I’m looking to collaborate on any projects to gain some experience
 - 📫 How to reach me marko.gugleta@gmail.com
 
